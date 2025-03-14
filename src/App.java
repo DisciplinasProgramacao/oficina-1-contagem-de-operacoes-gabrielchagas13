@@ -7,6 +7,12 @@ public class App {
     static int[] tamanhosTestePequeno = {       3};
     static Random aleatorio = new Random(48);
 
+    //original
+    //static int[] tamanhosTesteGrande =  { 125_000, 250_000, 500_000, 1_000_000, 2_000_000 };
+    //static int[] tamanhosTesteMedio =   {  12_500,  25_000,  50_000,   100_000,   200_000 };
+    //static int[] tamanhosTestePequeno = {       3,       6,      12,        24,        48 };
+    //static Random aleatorio = new Random(42);
+
     /**
      * Código de teste 1. Este método...
      * @param vetor Vetor com dados para teste.
